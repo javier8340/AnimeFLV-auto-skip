@@ -6,4 +6,4 @@ To enable it, you require any addon
 
 Created Addons:
 
--     Mega video auto skip addon
+- [Mega video auto skip addon](https://github.com/javier8340/AnimeFLV-auto-skip)
